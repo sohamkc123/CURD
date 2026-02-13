@@ -24,7 +24,7 @@ export function createItems(itemsArray) {
     </div>
     <p class="items-summary">${itemsArray.length} tasks · ${completedCount} done</p>
     <div class="items-mood-container">
-      <div class="mood-sprite ${faceClass}"></div>
+      <div class="mood-happiness ${faceClass}"></div>
     </div>
   `;
   container.appendChild(statsDiv);

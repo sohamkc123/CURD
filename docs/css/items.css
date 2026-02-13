@@ -38,10 +38,10 @@
 	gap: 0.5rem;
 }
 
-.mood-sprite {
+.mood-happiness {
 	width: 24px;
 	height: 70px;
-	background-image: url("../sprite.png");
+	background-image: url("../happiness.jpeg");
 	background-size: 120px 70px; /* Assumes 5 faces @ 48px each in a row */
 	background-repeat: no-repeat;
 }
